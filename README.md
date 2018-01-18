@@ -15,12 +15,18 @@ Project name shop_online.
 #Date: 
 
 entrance: /shop
-auth 
+
+
+auth
+ 
 login: admin
+
 password:qwerty123
 
 Contacts 
+
 mail: khrenoffmaxim@yandex.ru
+
 fb: https://www.facebook.com/khrenoffmaxim
 
 
