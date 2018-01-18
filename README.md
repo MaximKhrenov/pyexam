@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/MaximKhrenov/pyexam.svg?branch=master)](https://travis-ci.org/MaximKhrenov/pyexam)
 [![Coverage Status](https://coveralls.io/repos/github/MaximKhrenov/pyexam/badge.svg?branch=master)](https://coveralls.io/github/MaximKhrenov/pyexam?branch=master)
 
-#MaximKhrenov python exam 18/01/2018
+#MaximKhrenov 151-322 python exam 18/01/2018
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
